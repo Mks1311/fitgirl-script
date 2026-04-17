@@ -74,21 +74,7 @@ node game.js
 2. Re-run:
 
 ```bash
-node converter.js
 node game.js
-```
-
----
-
-## Notes
-
-* Always run `converter.js` before starting the game
-* Ensure `links.txt` is not empty
-* Do not modify generated files unless necessary
-* If issues persist, delete `node_modules` and run:
-
-```bash
-npm install
 ```
 
 ---
